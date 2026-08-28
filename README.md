@@ -1,7 +1,7 @@
 [![header](assets/header.png)](https://github.com/venuxxx)
 
 ### 👋 About Me
-My name is venuxxx, and I am a C++/Python developer from Belarus 🇧🇾. I am a second-year student at BSUIR, and I am engaged in game and web application development.
+My name is venuxxx, and I am a C++/Python developer from Belarus 🇧🇾. I am a third-year student at BSUIR, and I am engaged in game and web application development.
 
 ---
 
